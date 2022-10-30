@@ -116,7 +116,7 @@ Download the latest [.deb package][latest-release], and run the following:
 
 ```shell
 sudo dpkg -i <path-to-package>
-git-credential-manager configure
+git-credential-manager-core configure
 ```
 
 **Note:** Although packages were previously offered on certain
